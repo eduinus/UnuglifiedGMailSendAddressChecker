@@ -1,5 +1,5 @@
 # UnuglifiedGMailSendAddressChecker
-Before sending e-mail, check From, To, Cc, Bcc, subject, and attached files must be confirmed to prevent erroneous transmission
+Before sending e-mail, check From, To, Cc, Bcc, subject, and attached files must be confirmed to prevent erroneous transmission.
 
 (Now less ugly)
 
