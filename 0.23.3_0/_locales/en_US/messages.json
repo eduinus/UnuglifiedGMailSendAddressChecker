@@ -1,0 +1,8 @@
+{
+   "ext_desc": {
+      "message": "Before sending e-mail, check From, To, Cc, Bcc, subject, and attached files to prevent erroneous transmission. (C)DORASU, Edwin Bogert"
+   },
+   "ext_name": {
+      "message": "Un-uglified GMailSend Address Checker"
+   }
+}

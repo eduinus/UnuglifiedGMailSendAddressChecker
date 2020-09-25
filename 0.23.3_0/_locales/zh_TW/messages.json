@@ -1,0 +1,8 @@
+{
+   "ext_desc": {
+      "message": "發送電子郵件之前，請檢查“發件人”，“收件人”，“抄送”，“密件抄送”，“主題”和附件，以防止錯誤傳輸. (C)DORASU"
+   },
+   "ext_name": {
+      "message": "GMailSend Address Checker -防止錯誤傳輸-"
+   }
+}

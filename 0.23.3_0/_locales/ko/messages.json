@@ -1,0 +1,8 @@
+{
+   "ext_desc": {
+      "message": "전자 메일을 보내기 전에 잘못된 전송을 방지하기 위해 보낸 사람,받는 사람, 참조, 숨은 참조, 제목 및 첨부 파일을 확인하십시오. (C)DORASU"
+   },
+   "ext_name": {
+      "message": "GMailSend Address Checker -오 송신 방지-"
+   }
+}

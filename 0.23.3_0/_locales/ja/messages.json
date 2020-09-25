@@ -1,0 +1,8 @@
+{
+   "ext_desc": {
+      "message": "メール送信前に、From,To,Cc,Bcc,件名,添付ファイルをチェックして、誤送信を防止します。 (C)DORASU"
+   },
+   "ext_name": {
+      "message": "GMailSend Address Checker - 誤送信防止 -"
+   }
+}

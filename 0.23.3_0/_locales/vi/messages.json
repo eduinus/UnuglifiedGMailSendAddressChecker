@@ -1,0 +1,8 @@
+{
+   "ext_desc": {
+      "message": "Trước khi gửi e-mail, hãy kiểm tra các tệp From, To, Cc, Bcc, chủ đề và các tệp đính kèm để tránh truyền sai. (C)DORASU"
+   },
+   "ext_name": {
+      "message": "GMailSend Address Checker -Ngăn chặn truyền sai-"
+   }
+}

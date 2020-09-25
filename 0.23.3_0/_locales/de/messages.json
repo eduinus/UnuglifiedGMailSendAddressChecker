@@ -1,0 +1,8 @@
+{
+   "ext_desc": {
+      "message": "Aktivieren Sie vor dem Senden von E-Mails die Kontrollkästchen Von, An, Cc, Bcc, Betreff und Angehängte Dateien, um eine fehlerhafte Übertragung zu verhindern. (C)DORASU"
+   },
+   "ext_name": {
+      "message": "GMailSend Address Checker"
+   }
+}

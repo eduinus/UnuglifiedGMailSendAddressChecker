@@ -1,0 +1,18 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "checker.css" ],
+      "js": [ "checker.js" ],
+      "matches": [ "http://mail.google.com/*", "https://mail.google.com/*" ]
+   } ],
+   "default_locale": "en_US",
+   "description": "__MSG_ext_desc__",
+   "icons": {
+      "128": "icon8-6.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjFt5wqwdpjiBJ5iCDr3E6IRHaDTkjv0QugwM8yJ4n5yCoxzEXW0RS4tb90Upq9N/BIRglj0Twks6vU0ORHXcRv6iUvXB4wwcEUpMfH8Aig2W0s/VASvLTduQuc+V4ZiLPwjfY+F+jXLQYfJvMli2MWSdjdfr7HtDc2VsJW3qgaOh12BTLrRoqIkwjNWaRKSFX28eLQHavzL4aXuztwqsRCtW7A9fGOwJhkpDtqIsXRZZ7777vI/rClhtKrnZdwTVbPii3u4sCa/Bc1ndPbTjiYebL72bd/G15rqA3KKa5nafMT90YHXbEWJAdj5BS9iGOrE6xHcFVgQJtLH7CZ2+OQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ext_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.23.3"
+}
