@@ -7,4 +7,4 @@ I stumbled upon this extension at https://chrome.google.com/webstore/detail/gmai
 
 To install, download and extract, go to chrome extensions, enable developer mode, and click "load unpacked." Navigate to the downloaded "0.23.3_0" directory, and select that folder. Your extension should now be installed.
 
-(after.png)
+[what the extension looks like now](/after.png)
